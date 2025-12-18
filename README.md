@@ -1,6 +1,5 @@
 # amadiohatech
 A cultural–technology institution focused on ethical systems design, continuity, and structured intelligence.
-# amadiohatech
 
 amadiohatech is a cultural–intellectual institution focused on ethical systems design, technological continuity, and the protection of original thought.
 
